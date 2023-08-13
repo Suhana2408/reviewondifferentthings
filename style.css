@@ -1,0 +1,20 @@
+.places{
+    border: solid 1px lightgray;
+}
+.movies{
+    padding: 10px;
+    font-size: 22px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+}
+.ic{
+    float: right;
+}
+.yellowstar{
+    color: rgb(241, 221, 33);
+}
+.books{
+    height: 350px;
+}
+
